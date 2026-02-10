@@ -1,0 +1,153 @@
+body{
+    margin:0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 10px;
+    width:100%;
+    height:100%;
+    background: #aaa;
+    box-sizing: border-box;
+}
+.nin{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/962/262/389/anime-girls-anime-nakano-nino-5-toubun-no-hanayome-wedding-dress-hd-wallpaper-preview.jpg");
+    width: 100%;
+    height: 20vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.ichi{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/603/12/986/anime-the-quintessential-quintuplets-5-toubun-no-hanayome-ichika-nakano-hd-wallpaper-preview.jpg");
+    width: 100%;
+    height: 20vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.mik{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/945/256/986/anime-the-quintessential-quintuplets-5-toubun-no-hanayome-miku-nakano-hd-wallpaper-preview.jpg");
+    width: 100%;
+    height: 20vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.yot{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/967/417/70/anime-the-quintessential-quintuplets-5-toubun-no-hanayome-yotsuba-nakano-hd-wallpaper-preview.jpg");
+    width: 100%;
+    height: 20vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.itsu{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/202/423/734/anime-the-quintessential-quintuplets-go-toubun-no-hanayome-itsuki-nakano-hd-wallpaper-preview.jpg");
+    width: 100%;
+    height: 20vh;
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box{
+    width: 100%;
+    height: 100vh;
+    background-image:url("https://get.wallhere.com/photo/5-toubun-no-Hanayome-anime-girls-fan-art-digital-art-2D-simple-background-redhead-pink-hair-short-hair-long-hair-big-boobs-smiling-blue-eyes-Nakano-Nino-Nakano-Itsuki-Nakano-Ichika-Nakano-Miku-Nakano-Yotsuba-ponytail-1661131.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.opaco{
+    width: 100%;
+    height: 100%;
+    background-color:#0008
+}
+h2{
+    margin:0;
+    text-align: center;
+    padding-top: 400px;
+    font-size: 5em;
+    color:#aaa
+}
+.raya{
+    width: 100%;
+    height: 2px;
+    background-color: #fff;
+}
+.ichika{
+    margin: 20px;
+    background: #ef05;
+    font-family: sans-serif;
+    border-radius: 15px;
+    border-left: 8px solid #fd0f;
+    width: 50%;
+    font-size: 2em;
+    text-align: justify;
+}
+h3{
+    margin: 0;
+    padding:10px;
+}
+p{
+    margin: 0;
+    padding: 10px;
+}
+.nino{
+    margin: 20px;
+    background: #f5f5;
+    font-family: sans-serif;
+    border-radius: 15px;
+    border-right: 8px solid #f5f;
+    width: 50%;
+    font-size: 2em;
+    text-align: right;
+    margin-left: auto;
+}
+.miku{
+    margin:20px;
+    background:#0af5;
+    font-family: sans-serif;
+    border-radius: 15px;
+    border-left: 8px solid #0ff8;
+    width: 50%;
+    font-size: 2em;
+}
+.yotsuba{
+    margin:20px;
+    background:#0e05;
+    border-radius: 15px;
+    border-right: 8px solid #0f08;
+    width: 50%;
+    font-size: 2em;
+    text-align: right;
+    margin-left: auto;
+}
+.itsuki{
+    margin:20px;
+    background: #f005;
+    border-radius: 15px;
+    border-left: 8px solid #e00;
+    width: 50%;
+    font-size: 2em;
+}
+.resumen{
+    background: #dddddd;
+    padding: 20px;
+    border-left: 6px solid #999;
+    width: 35vw;
+    height: 35vh;
+    margin:auto;
+    font-size: 2em;
+    box-sizing: border-box;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+h4{
+    margin: 0;
+    padding:10px;
+}
