@@ -139,7 +139,7 @@ p{
     background: #dddddd;
     padding: 20px;
     border-left: 6px solid #999;
-    width: 35vw;
+    width: 35%;
     margin:auto;
     font-size: 2em;
     box-sizing: border-box;
@@ -151,3 +151,4 @@ h4{
     padding:10px;
 
 }
+
