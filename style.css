@@ -140,7 +140,6 @@ p{
     padding: 20px;
     border-left: 6px solid #999;
     width: 35vw;
-    height: 35vh;
     margin:auto;
     font-size: 2em;
     box-sizing: border-box;
@@ -150,4 +149,5 @@ p{
 h4{
     margin: 0;
     padding:10px;
+
 }
